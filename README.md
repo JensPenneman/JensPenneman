@@ -23,7 +23,7 @@
 
 ## PC specs
 
-[![My CPU](https://img.shields.io/badge/Intel-Core_i7_9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white "Intel Core i7")](https://www.intel.com/content/www/us/en/products/sku/191045/intel-core-i79750h-processor-12m-cache-up-to-4-50-ghz)
+[![My CPU](https://img.shields.io/badge/Intel-Core_i7_9TH_GEN-0071C5?style=for-the-badge&logo=intel&logoColor=white "Intel Core i7")](https://www.intel.com/content/www/us/en/products/sku/191045/intel-core-i79750h-processor-12m-cache-up-to-4-50-ghz)
 [![My graphics card](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white "NVIDIA RTX2060")](https://www.nvidia.com/en-me/geforce/graphics-cards/rtx-2060/)
 
 ## What I game on

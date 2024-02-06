@@ -1,7 +1,44 @@
 {
   "name": "jenspenneman",
-  "version": "0.1.0",
-  "private": true,
+  "description": "In this cryptic realm, the essence of my being remains shrouded; all truths concealed within the folds of enigma await discovery within these sacred lines.",
+  "readme": "./README.md",
+  "homepage": "https://jenspenneman.com/",
+  "version": "0.0.0",
+  "private": false,
+  "author": {
+    "name": "Jens Penneman",
+    "email": "jenspenneman26@gmail.com",
+    "url": "https://jenspenneman.com"
+  },
+  "contributors": [
+    {
+      "name": "Jens Penneman",
+      "email": "jenspenneman26@gmail.com",
+      "url": "https://jenspenneman.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Jens Penneman",
+      "email": "jenspenneman26@gmail.com",
+      "url": "https://jenspenneman.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JensPenneman/JensPenneman",
+    "directory": "website"
+  },
+  "packageManager": "npm@10.4.0",
+  "engineStrict": true,
+  "engines": {
+    "node": "^20.10.0"
+  },
+  "browserslist": [
+    "last 1 versions",
+    "not dead",
+    "> 0.2%"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

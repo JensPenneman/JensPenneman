@@ -30,7 +30,11 @@ Location: 9190 Stekene, Belgium
 - Personal website: [jenspenneman.com](https://jenspenneman.com)
 - KLJ Stekene: [kljstekene.be](https://kljstekene.be) • [website repository](https://github.com/KLJ-Stekene/KLJ-Stekene)
 - WEB4YOU: [web-4-you.be](https://web-4-you.be) • [website repository](https://github.com/WEB4YOU-BE/web4you-www)
-- VZW Ten Boomgaerde Lichtervelde (Hall rental): [vzwtenboomgaerdelichtervelde.be](https://www.vzwtenboomgaerdelichtervelde.be/) • [website repository](https://github.com/WEB4YOU-BE/P007-TenBoomgaerde)
+- VZW Ten Boomgaerde Lichtervelde: [vzwtenboomgaerdelichtervelde.be](https://www.vzwtenboomgaerdelichtervelde.be/) • [website repository](https://github.com/WEB4YOU-BE/P007-TenBoomgaerde)
+- Bart Bostoen Algemene Elektriciteit: [bartbostoen.be](https://www.bartbostoen.be/)
+- Berts Creations: [bertscreations.be](https://www.bertscreations.be/)
+- O'seap: [oseap.be](https://www.oseap.be/)
+- Talk For Love: [talkforlove.com](https://www.talkforlove.com/)
 
 
 > [!TIP]

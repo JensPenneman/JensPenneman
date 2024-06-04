@@ -1,37 +1,37 @@
 # Jens Penneman
 
-Hey there! 👋 Welcome to the user manual for the incredible life of Jens Penneman. Here's your quick guide to navigating through this enigmatic repository of awesomeness:
+## Work
+- Part-time: Independent at WEB4YOU (Websites)
+- Full-time: Looking for a job
 
-## Overview
+### GitHub Organizations
+- [KLJ Stekene](https://github.com/KLJ-Stekene) ([Website Repository](https://github.com/KLJ-Stekene/KLJ-Stekene))
 
-- **Name:** Jens Penneman
-- **Birthdate:** 23/11/2002
-- **Residence:** 9190 Stekene, Belgium
+- [WEB4YOU](https://github.com/WEB4YOU-BE)
 
-## Features
+## More about me
 
-- **Mystery Level:** Expert
-    - Uncover the layers of intrigue carefully woven into the fabric of Teerlingstraat 69.
+Date of Birth: 23/11/2002 (Age: 21)  
+Location: 9190 Stekene, Belgium
 
-- **Story Mode: ON**
-    - Dive into the narratives, adventures, and tales that make up the unique chronicles of Jens Penneman.
+### Contact
+- Email: [jenspenneman26@gmail.com](mailto:jenspenneman26@gmail.com)
 
-- **Hidden Talents**
-    - Like a ninja in the shadows, discover the unexpected skills and talents that lurk within these pages.
+### Social Media
+- Instagram: [@jens.penneman](https://www.instagram.com/jens.penneman/)
+- Facebook: [Jens Penneman](https://www.facebook.com/PennemanJens)
+- LinkedIn: [Jens Penneman](https://www.linkedin.com/in/jenspenneman/)
 
-## How to Use
+### Hobbies
+- [KLJ Stekene](https://kljstekene.be)
+- [VKB Oost-Vlaanderen](https://www.klj.be/bovenlokale-vrijwilligers/werkgroepen-oost-vlaanderen/vkb) en [Antwerpen](https://www.klj.be/bovenlokale-vrijwilligers/werkgroepen-antwerpen/vkb)
 
-1. **Navigate:**
-    - Explore the winding paths and secret corners of this repository with curiosity.
+### Projects (and websites)
+- Personal website: [jenspenneman.com](https://jenspenneman.com)
+- KLJ Stekene: [kljstekene.be](https://kljstekene.be) • [website repository](https://github.com/KLJ-Stekene/KLJ-Stekene)
+- WEB4YOU: [web-4-you.be](https://web-4-you.be) • [website repository](https://github.com/WEB4YOU-BE/web4you-www)
+- VZW Ten Boomgaerde Lichtervelde (Hall rental): [vzwtenboomgaerdelichtervelde.be](https://www.vzwtenboomgaerdelichtervelde.be/) • [website repository](https://github.com/WEB4YOU-BE/P007-TenBoomgaerde)
 
-2. **Engage:**
-    - Feel free to ask questions, seek out mysteries, or simply enjoy the adventure.
 
-3. **Unveil:**
-    - As you tread carefully, be prepared for surprises and revelations hidden behind every metaphorical door.
-
-## Support
-
-For any assistance or to report a bug (of the mysterious kind), reach out to the cosmic support team at [jenspenneman26@gmail.com](mailto:jenspenneman26@gmail.com).
-
-Now, fasten your seatbelt, and let the exploration of Jens Penneman's extraordinary existence begin! 🚀✨
+> [!TIP]
+> Now, fasten your seatbelt, and let the exploration of Jens Penneman's extraordinary existence begin! 🚀✨

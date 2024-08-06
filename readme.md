@@ -1,12 +1,12 @@
 # Jens Penneman
 
 ## Work
-- Part-time: Independent at WEB4YOU (Websites)
-- Full-time: Looking for a job
+- Full-time: Fullstack Software Engineer at Lemon Companies (Kontich)
+- Part-time: Independent at WEB4YOU (Stekene)
 
 ### GitHub Organizations
+- [Lemon Companies](https://github.com/lemoncompanies)
 - [KLJ Stekene](https://github.com/KLJ-Stekene) ([Website Repository](https://github.com/KLJ-Stekene/KLJ-Stekene))
-
 - [WEB4YOU](https://github.com/WEB4YOU-BE)
 
 ## More about me
@@ -15,7 +15,8 @@ Date of Birth: 23/11/2002 (Age: 21)
 Location: 9190 Stekene, Belgium
 
 ### Contact
-- Email: [jenspenneman26@gmail.com](mailto:jenspenneman26@gmail.com)
+- Personal email: [jenspenneman26@gmail.com](mailto:jenspenneman26@gmail.com)
+- Work email: [jens.penneman@lemon.be](mailto:jens.penneman@lemon.be)
 
 ### Social Media
 - Instagram: [@jens.penneman](https://www.instagram.com/jens.penneman/)

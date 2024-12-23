@@ -6,7 +6,6 @@
 
 ### GitHub Organizations
 - [Lemon Companies](https://github.com/lemoncompanies)
-- [KLJ Stekene](https://github.com/KLJ-Stekene) ([Website Repository](https://github.com/KLJ-Stekene/KLJ-Stekene))
 - [WEB4YOU](https://github.com/WEB4YOU-BE)
 
 ## More about me
@@ -29,7 +28,7 @@ Location: 9190 Stekene, Belgium
 
 ### Projects (and websites)
 - Personal website: [jenspenneman.com](https://jenspenneman.com)
-- KLJ Stekene: [kljstekene.be](https://kljstekene.be) • [website repository](https://github.com/KLJ-Stekene/KLJ-Stekene)
+- KLJ Stekene: [kljstekene.be](https://kljstekene.be) • [website repository](https://github.com/JensPenneman/KLJ-Stekene)
 - WEB4YOU: [web-4-you.be](https://web-4-you.be) • [website repository](https://github.com/WEB4YOU-BE/web4you-www)
 - VZW Ten Boomgaerde Lichtervelde: [vzwtenboomgaerdelichtervelde.be](https://www.vzwtenboomgaerdelichtervelde.be/) • [website repository](https://github.com/WEB4YOU-BE/P007-TenBoomgaerde)
 - Bart Bostoen Algemene Elektriciteit: [bartbostoen.be](https://www.bartbostoen.be/)

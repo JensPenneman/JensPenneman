@@ -1,41 +1,44 @@
 # Jens Penneman
 
-## Work
-- Full-time: Fullstack Software Engineer at Lemon Companies (Kontich)
-- Part-time: Independent at WEB4YOU (Stekene)
+I am a Full Stack Software Engineer, available for hire.
 
-### GitHub Organizations
-- [Lemon Companies](https://github.com/lemoncompanies)
-- [WEB4YOU](https://github.com/WEB4YOU-BE)
+## Experience
 
-## More about me
+**Full Stack Software Engineer**, Lemon Companies (Kontich) — Jul 2024–May 2025
 
-Date of Birth: 23/11/2002 (Age: 21)  
-Location: 9190 Stekene, Belgium
+**Independent Developer**, WEB4YOU (Stekene) — Oct 2021–Jun 2024
 
-### Contact
-- Personal email: [jenspenneman26@gmail.com](mailto:jenspenneman26@gmail.com)
-- Work email: [jens.penneman@lemon.be](mailto:jens.penneman@lemon.be)
+**Frontend Engineer Intern**, BASF (Ghent) — Oct 2023–Dec 2023
 
-### Social Media
-- Instagram: [@jens.penneman](https://www.instagram.com/jens.penneman/)
-- Facebook: [Jens Penneman](https://www.facebook.com/PennemanJens)
-- LinkedIn: [Jens Penneman](https://www.linkedin.com/in/jenspenneman/)
+## Contact
 
-### Hobbies
-- [KLJ Stekene](https://kljstekene.be)
-- [VKB Oost-Vlaanderen](https://www.klj.be/bovenlokale-vrijwilligers/werkgroepen-oost-vlaanderen/vkb) en [Antwerpen](https://www.klj.be/bovenlokale-vrijwilligers/werkgroepen-antwerpen/vkb)
+* **Location:** Stekene, Belgium
+* **Phone:** +32 474 18 06 83
+* **Email:** [jenspenneman26@gmail.com](mailto:jenspenneman26@gmail.com)
+* **LinkedIn:** [linkedin.com/in/jenspenneman](https://www.linkedin.com/in/jenspenneman/)
+* **Website:** [jenspenneman.com](https://jenspenneman.com)
 
-### Projects (and websites)
-- Personal website: [jenspenneman.com](https://jenspenneman.com)
-- KLJ Stekene: [kljstekene.be](https://kljstekene.be) • [website repository](https://github.com/JensPenneman/KLJ-Stekene)
-- WEB4YOU: [web-4-you.be](https://web-4-you.be) • [website repository](https://github.com/WEB4YOU-BE/web4you-www)
-- VZW Ten Boomgaerde Lichtervelde: [vzwtenboomgaerdelichtervelde.be](https://www.vzwtenboomgaerdelichtervelde.be/) • [website repository](https://github.com/WEB4YOU-BE/P007-TenBoomgaerde)
-- Bart Bostoen Algemene Elektriciteit: [bartbostoen.be](https://www.bartbostoen.be/)
-- Berts Creations: [bertscreations.be](https://www.bertscreations.be/)
-- O'seap: [oseap.be](https://www.oseap.be/)
-- Talk For Love: [talkforlove.com](https://www.talkforlove.com/)
+## Skills
 
+* Next.js & React
+* TypeScript & JavaScript (ESNext)
+* Node.js, Express, NestJS
+* REST & GraphQL APIs
+* PostgreSQL, MongoDB
+* HTML5, CSS3 (TailwindCSS)
+* Git & CI/CD pipelines
+* Accessible, performant UI
 
-> [!TIP]
-> Now, fasten your seatbelt, and let the exploration of Jens Penneman's extraordinary existence begin! 🚀✨
+## Projects & Contributions
+
+* **KLJ Stekene Website** — Custom CMS-free site for local youth group. [Repo](https://github.com/JensPenneman/KLJ-Stekene)
+* **WEB4YOU Platform** — Portfolio of client sites: blogs, e-commerce, landing pages. [Repo](https://github.com/WEB4YOU-BE/web4you-www)
+* **Ten Boomgaerde Lichtervelde** — Building rental website for parties and business meetings. [Repo](https://github.com/WEB4YOU-BE/P007-TenBoomgaerde)
+* **Bart Bostoen Algemene Elektriciteit** — Business website with service showcase.
+* **Berts Creations** — Artist portfolio and shop integration.
+* **O'seap** — Local shop site with dynamic product listings.
+* **Talk For Love** — Event platform connecting attendees.
+* **BASF PoC DBMS** — Proof-of-concept database integration for enterprise data sources.
+* **Open Source Contributions** — Bug fixes and feature additions to Next.js–related projects (e.g., Strapi).
+
+> Available for hire 🚀
